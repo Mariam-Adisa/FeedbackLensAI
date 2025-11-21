@@ -1,9 +1,7 @@
 # FeedbackLensAI
 
-FeedbackLens AI is a lightweight NLP-driven tool that transforms large volumes of customer reviews into clear, actionable insights. It detects sentiment, extracts common pain points, summarizes feedback, and generates AI-powered improvement suggestions, helping e-commerce sellers quickly understand what customers love, what frustrates them, and what to fix next.
-
-Built using **Glide**, **LLM-based sentiment analysis**, and **synthetic e-commerce review data**, this project demonstrates rapid prototyping, practical AI application, and strong product-thinking for portfolio and concept validation.
-
+FeedbackLens AI is an AI-powered sentiment analysis tool that transforms raw product reviews into actionable insights for e-commerce sellers. It uses NLP to classify sentiment, extract recurring customer themes, summarize feedback, and generate improvement recommendations.
+Built with Glide and synthetic review data, this project demonstrates practical application of AI for CX optimization and product decision-making, and serves as a strong portfolio example of concept prototyping and product thinking.
 
 **Features**
 - **Sentiment Analysis**: Automatically classifies reviews as positive, neutral, or negative.  
